@@ -1,0 +1,9 @@
+
+.primary_navigation a{
+    text-decoration: none;
+    color: #107896;
+    margin: 0 1em;
+}
+.primary_navigation a.active{
+    color: #c2571a;
+}
